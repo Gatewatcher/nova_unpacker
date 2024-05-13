@@ -4,6 +4,6 @@ This unpacker was specifically made for unpacking [Nova Sentinel's Stealer](http
 
 ## Exemple of use
 
-![image](https://cdn.discordapp.com/attachments/1187683613949571138/1230141978692550737/image.png?ex=66323dfe&is=661fc8fe&hm=c4373d8d8a00db8b1806e60d6988eb13d7899a021b3cc5d0a48d53facf500f9c&)
+![image](./img/image.png)
 
 You will then get the source code of the executable inside the extracted folder.
